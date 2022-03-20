@@ -47,7 +47,7 @@
  Pleases see below image of result
  
  
- !paidvine_review_deliverable_2.png](Images/paidvine_review_deliverable_2.png)
+ ![paidvine_review_deliverable_2.png](Images/paidvine_review_deliverable_2.png)
  
  
  ![unpaid_review.png](Images/unpaid_review.png)
