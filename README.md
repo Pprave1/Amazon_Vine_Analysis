@@ -15,7 +15,7 @@
     
    ## Results
    
-   Inorder to focus on reviews data was extracted. please see below image of the data ,
+  ### Inorder to focus on reviews data was extracted. please see below image of the data ,
    
    ![Amazon_data_deliverable_1.png](Images/Amazon_data_deliverable_1.png)
    
@@ -26,6 +26,20 @@
    ![pg_admin_tables_deliverable_1.png](Images/pg_admin_tables_deliverable_1.png)
    
    Similarly,each data frames were created,please refer Images folder.
+   
+   ### Then data was filtered into:
+    
+         #### count of total_votes equal to or greater than 20 and
+         
+         #### helpful_votes divided by total _votes is equal to or greater than 50%
+         
+     Please see the result of total_votes and helpful_votes/total_votes
+     
+     ![total_votes_filter20_deli_2.png](Images/total_votes_filter20_deli_2.png)
+     
+   
+   
+   
    
    
    
