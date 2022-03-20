@@ -59,7 +59,7 @@ In order to determine if there is any bias towards favorable reviews from Vine m
     The dataset we chose was on smaller side for Big data with total reviews of about 145,431.When filtered for 20 or more  reviews the rest of analysis was around
     3,342 reviews and helpful_votes narrow down to 1,685 reviews.
 
-    Due to applied criteriathere were no reviews that were paid by Vine program and with a unpaid reviews of 1,685.
+    Due to applied criteria there were no reviews that were paid by Vine program and with a unpaid reviews of 1,685.
 
  
 2) How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
