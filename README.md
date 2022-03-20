@@ -41,8 +41,10 @@
   
   
     ![helpfulvotes_totalvotes.png](Images/helpfulvotes_totalvotes.png) 
+    
      
      
+![helpfulvotes_totalvotes](https://user-images.githubusercontent.com/92768044/159162729-3e7dafda-f049-4797-ac9d-22a4007f5814.png)
 
       
      
