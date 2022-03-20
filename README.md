@@ -33,7 +33,7 @@
          
           2) helpful_votes divided by total _votes is equal to or greater than 50%
          
-  Please see the result of total_votes and helpful_votes/total_votes 
+  Please see the images below for  result of total_votes and helpful_votes/total_votes 
   
      
      
