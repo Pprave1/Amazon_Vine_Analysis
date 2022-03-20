@@ -29,13 +29,18 @@
    
    ### Then data was filtered into:
     
-         #### count of total_votes equal to or greater than 20 and
+         1)  count of total_votes equal to or greater than 20 and
          
-         #### helpful_votes divided by total _votes is equal to or greater than 50%
+          2) helpful_votes divided by total _votes is equal to or greater than 50%
          
-     Please see the result of total_votes and helpful_votes/total_votes
+      Please see the result of total_votes and helpful_votes/total_votes 
+     
      
      ![total_votes_filter20_deli_2.png](Images/total_votes_filter20_deli_2.png)
+     
+     
+      ![helpful_votes divid by total_votes.png](Images/helpful_votes divid by total_votes.png)
+      
      
    
    
