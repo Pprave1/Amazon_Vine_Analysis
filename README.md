@@ -23,3 +23,5 @@
    
    ![customer_table_deliverable_1.png](Images/customer_table_deliverable_1.png)
    
+   Similarly,each data frames were created
+   
