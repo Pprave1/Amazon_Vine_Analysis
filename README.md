@@ -39,7 +39,8 @@
   
   ![total_votes_filter20_deli_2.png](Images/total_votes_filter20_deli_2.png)
   
-    ![helpful_votes divid by total_votes.png](Images/helpful_votes divid by total_votes.png) 
+  
+    ![helpfulvotes_totalvotes.png](Images/helpfulvotes_totalvotes.png) 
      
      
 
