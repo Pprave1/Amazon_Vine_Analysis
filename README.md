@@ -22,6 +22,10 @@
    The extracted dataset was transformed into four dataframes to match tables.Please see the image below
    
    ![customer_table_deliverable_1.png](Images/customer_table_deliverable_1.png)
+
+   ![pg_admin_tables_deliverable_1.png](Images/pg_admin_tables_deliverable_1.png)
    
-   Similarly,each data frames were created
+   Similarly,each data frames were created,please refer Images folder.
+   
+   
    
