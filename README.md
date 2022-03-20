@@ -35,6 +35,12 @@
          
   Please see the images below for  result of total_votes and helpful_votes/total_votes 
   
+  
+  
+  ![total_votes_filter20_deli_2.png](Images/total_votes_filter20_deli_2.png)
+  
+
+  ![helpful_votes divid by total_votes.png](Images/helpful_votes divid by total_votes.png) 
      
      
 
