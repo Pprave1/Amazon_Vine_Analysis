@@ -72,7 +72,7 @@ In order to determine if there is any bias towards favorable reviews from Vine m
    
  ## Summary
    
-As the sample size was constricted to small size it was impossible to compare paid and unpaid Vine reviews ,but considering the analysis of unpaid reiviews the analysis was biased to unpaid Vine reviews.Additional analysis recommendation is to adjustments to these criteria for reconsidering dataset . Also more analysis with different products  helps to get a whole picture  of whether reviews are made by Vine members are bias.
+As the sample size was constricted to small size it was impossible to compare paid and unpaid Vine reviews ,but considering the analysis of unpaid reiviews the analysis was biased to unpaid Vine reviews.Additional analysis recommendation is to adjustments to these criteria for reconsidering dataset . Also more analysis with different products  helps to get a whole picture  of whether reviews are made by Vine members are biased.
  
  
 
