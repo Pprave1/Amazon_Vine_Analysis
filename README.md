@@ -41,9 +41,6 @@
       
      
      
-      ![helpful_votes divid by total_votes.png](Images/helpful_votes divid by total_votes.png)
-      
-     
    
    
    
