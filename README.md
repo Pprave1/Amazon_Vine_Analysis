@@ -9,7 +9,7 @@
     PySpark to extract the dataset,transform the data,connect to AWS RDS instance and load the transformed data into
     pgAmin.
     
-    Google Colaboratory to import PySpark librariesand connect to Posstgres in order to create SQL tables and export
+    Google Colaboratory to import PySpark libraries and connect to Posstgres in order to create SQL tables and export
     the results.
     
     
@@ -18,4 +18,8 @@
    Inorder to focus on reviews data was extracted. please see below image of the data ,
    
    ![Amazon_data_deliverable_1.png](Images/Amazon_data_deliverable_1.png)
+   
+   The extracted dataset was transformed into four dataframes to match tables.Please see the image below
+   
+   ![customer_table_deliverable_1.png](images/customer_table_deliverable_1.png)
    
