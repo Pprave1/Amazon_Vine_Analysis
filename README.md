@@ -55,11 +55,22 @@
  
 1) How many Vine reviews and non-Vine reviews were there?
 
-The dataset we chose was on smaller side for Big data with total reviews of about 145,431.When filtered for 20 or more  reviews 
+The dataset we chose was on smaller side for Big data with total reviews of about 145,431.When filtered for 20 or more  reviews the rest of analysis was around 3,342 reviews and helpful_votes narrow down to 1,685 reviews.
+
+Due to applied criteriathere were no reviews that were paid by Vine program and with a unpaid reviews of 1,685.
+
  
 2) How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 
+  There were 0 paid Vine reviews with 5-star reviews and 631 unpaid Vine reviews with 5-star reviews.
+
 3) What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+
+   The percentage for paid,5-star reviews would be 0%, where as the percentage of unpaid,5-start reviews was 37.4%.
+   
+   ## Summary
+   
+As the sample size was constricted to small size it was impossible to compare paid and unpaid Vine reviews ,but considering the analysis of unpaid reiviews the analysis was biased to unpaid Vine reviews.Additional analysis recommendation is to adjustments to these criteria for reconsidering dataset set. Also more analysis with different products  helps to get a whole picture  of whether reviews are made by Vine members are bias.
  
  
 
