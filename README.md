@@ -37,7 +37,7 @@
   
      
      
-      ![total_votes_filter20_deli_2.png](Images/total_votes_filter20_deli_2.png)
+
       
      
      
