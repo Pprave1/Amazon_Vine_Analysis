@@ -21,5 +21,5 @@
    
    The extracted dataset was transformed into four dataframes to match tables.Please see the image below
    
-   ![customer_table_deliverable_1.png](images/customer_table_deliverable_1.png)
+   ![customer_table_deliverable_1.png](Images/customer_table_deliverable_1.png)
    
