@@ -53,6 +53,15 @@
  ![unpaid_review.png](Images/unpaid_review.png)
  
  
+1) How many Vine reviews and non-Vine reviews were there?
+
+The dataset we chose was on smaller side for Big data with total reviews of about 145,431.When filtered for 20 or more  reviews 
+ 
+2) How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+
+3) What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+ 
+ 
 
       
      
